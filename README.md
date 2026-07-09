@@ -4,10 +4,10 @@
 
 RollCall.ai replaces manual roll-call with a fast, AI-assisted attendance system for teachers and students — built with Streamlit and Supabase.
 
-🔗 **Live Demo:** [add your deployed Streamlit Cloud link here]
-🎥 **Demo Screenshot:**
+🔗 **Live Demo:** [(https://rollcallai-mzmnd846xw89ux9osq2ixp.streamlit.app/)]
 
-![RollCall.ai Home Screen](add-screenshot-path-or-url-here)
+
+![RollCall.ai Home Screen](https://rollcallai-mzmnd846xw89ux9osq2ixp.streamlit.app/)
 
 ---
 
@@ -35,45 +35,8 @@ RollCall.ai replaces manual roll-call with a fast, AI-assisted attendance system
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-- Python 3.10+
-- A [Supabase](https://supabase.com) project (free tier works)
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/[your-username]/rollcall-ai.git
-cd rollcall-ai
-
-# Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Configuration
-
-Create a `.streamlit/secrets.toml` file in the project root with your Supabase credentials:
-
-```toml
-SUPABASE_URL = "your-supabase-project-url"
-SUPABASE_KEY = "your-supabase-anon-key"
-```
-
-> ⚠️ Never commit this file. It's already excluded via `.gitignore`.
-
-### Run locally
-
-```bash
-streamlit run app.py
-```
-
-The app will open at `http://localhost:8501`.
 
 ---
 
@@ -105,7 +68,7 @@ rollcall-ai/
 
 ## 👤 Author
 
-Built by **[Aditya Singh]** — [https://www.linkedin.com/in/aditya-singh-as-dev/] · [your portfolio/GitHub]
+Built by **[Aditya Singh]** — [https://www.linkedin.com/in/aditya-singh-as-dev/]
 
 
 ---
