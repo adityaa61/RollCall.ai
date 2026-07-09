@@ -8,11 +8,11 @@ def style_background_home():
         <style>
 
                 .stApp {
-                    background: #5865F2 !important;
+                    background: #0F172A !important;
                 }
 
                 .stApp div[data-testid="stColumn"]{
-                    background-color:#E0E3FF !important;
+                    background-color:#1E293B !important;
                     padding:2.5rem !important;
                     border-radius: 5rem !important;
                     }
@@ -28,7 +28,7 @@ def style_background_dashboard():
         <style>
 
                 .stApp {
-                    background: #E0E3FF !important;
+                    background: #1E293B !important;
                 }
 
         </style>  
@@ -70,16 +70,18 @@ def style_base_layout():
                 font-size: 2rem !important;
                 line-height:0.9 !important;
                 margin-bottom:0rem !important;
+                color: #5EEAD4 !important;
             }
                 
             h3, h4, p {
                 font-family: 'Outfit', sans-serif;    
+                color: #E2E8F0;
             }
                 
 
             button{
                 border-radius: 1.5rem !important;
-                background-color: #5865F2 !important;
+                background-color: #0D9488 !important;
                 color: white !important;
                 padding: 10px 20px !important;
                 border: none !important;
@@ -88,7 +90,7 @@ def style_base_layout():
 
             button[kind="secondary"]{
                 border-radius: 1.5rem !important;
-                background-color: #EB459E !important;
+                background-color: #F59E0B !important;
                 color: white !important;
                 padding: 10px 20px !important;
                 border: none !important;

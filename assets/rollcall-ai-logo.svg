@@ -1,0 +1,12 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon: rounded square badge -->
+  <rect x="20" y="20" width="220" height="220" rx="52" fill="#16213E"/>
+
+  <!-- "R" stem + bowl, monogram that resolves into a checkmark leg -->
+  <path d="M 75 78 L 75 182" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round"/>
+  <path d="M 75 78 Q 152 78 152 116 Q 152 152 75 152" fill="none" stroke="#FFFFFF" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 98 152 L 116 178 L 183 108" fill="none" stroke="#2DD4BF" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Wordmark -->
+  <text x="278" y="163" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-2" fill="#16213E">RollCall<tspan fill="#2DD4BF" font-weight="700">.ai</tspan></text>
+</svg>
